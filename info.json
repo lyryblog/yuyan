@@ -1,0 +1,349 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://ty.al/",
+            "path": "index.html",
+            "saved": true,
+            "size": 27906,
+            "children": [
+                {
+                    "url": "http://www.clker.com/cliparts/i/s/H/f/4/T/apple-logo-white.svg",
+                    "path": "img/apple-logo-white.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://ty.al/images/icon_APP.gif",
+                    "path": "img/icon_APP.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://ty.al/images/icon_WEB.gif",
+                    "path": "img/icon_WEB.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://ty.al/images/icon_VR.gif",
+                    "path": "img/icon_VR.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://s1.ax1x.com/2022/03/13/bHzmcD.png",
+                    "path": "img/bHzmcD.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://s4.ax1x.com/2022/02/21/HjaasU.png",
+                    "path": "img/HjaasU.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://ty.al/js/uaredirect.js",
+                    "path": "js/uaredirect.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://libs.baidu.com/jquery/1.10.2/jquery.min.js",
+                    "path": "js/jquery.min.js",
+                    "saved": true,
+                    "size": 93106,
+                    "children": []
+                },
+                {
+                    "url": "http://www.dxmdh.com/11/sp.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://ty.al/js/respond.min.js",
+                    "path": "js/respond.min.js",
+                    "saved": true,
+                    "size": 4593,
+                    "children": []
+                },
+                {
+                    "url": "https://ty.al/js/jquery.SuperSlide.2.1.1.js",
+                    "path": "js/jquery.SuperSlide.2.1.1.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://ty.al/js/jquery.movebg.js",
+                    "path": "js/jquery.movebg.js",
+                    "saved": true,
+                    "size": 1761,
+                    "children": []
+                },
+                {
+                    "url": "https://ty.al/js/clipboard.min.js",
+                    "path": "js/clipboard.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+                    "path": "css/font-awesome.min.css",
+                    "saved": true,
+                    "size": 30959,
+                    "children": [
+                        {
+                            "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0",
+                            "path": "fonts/fontawesome-webfont_1.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular",
+                            "path": "img/fontawesome-webfont.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://ty.al/css/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 25519,
+                    "children": [
+                        {
+                            "url": "https://ty.al/images/icon_mouse.svg",
+                            "path": "img/icon_mouse.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://ty.al/images/icon_mouse2.svg",
+                            "path": "img/icon_mouse2.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://ty.al/images/icon_figma.svg",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://ty.al/images/icon_figma_hover.svg",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://ty.al/images/lock.svg",
+                            "path": "img/lock.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://ty.al/css/font.css",
+                    "path": "css/font.css",
+                    "saved": true,
+                    "size": 1562,
+                    "children": [
+                        {
+                            "url": "https://ty.al/fonts/PangMenZhengDao.woff2",
+                            "path": "fonts/PangMenZhengDao.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://ty.al/fonts/PangMenZhengDao.woff",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://ty.al/fonts/PangMenZhengDao.ttf",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://ty.al/fonts/PangMenZhengDao.eot",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://ty.al/fonts/PangMenZhengDao.svg",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://ty.al/fonts/OPPOSans-B.woff2",
+                            "path": "fonts/OPPOSans-B.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://ty.al/fonts/OPPOSans-B.woff",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://ty.al/fonts/OPPOSans-B.ttf",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://ty.al/fonts/OPPOSans-B.eot",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://ty.al/fonts/OPPOSans-B.svg",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://ty.al/fonts/OPPOSans-M.woff2",
+                            "path": "fonts/OPPOSans-M.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://ty.al/fonts/OPPOSans-M.woff",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://ty.al/fonts/OPPOSans-M.ttf",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://ty.al/fonts/OPPOSans-M.eot",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://ty.al/fonts/OPPOSans-M.svg",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://ty.al/fonts/OPPOSans-R.woff2",
+                            "path": "fonts/OPPOSans-R.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://ty.al/fonts/OPPOSans-R.woff",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://ty.al/fonts/OPPOSans-R.ttf",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://ty.al/fonts/OPPOSans-R.eot",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://ty.al/fonts/OPPOSans-R.svg",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "https://ty.al/music/China-X_VIP-Mix_.mp3",
+                    "saved": false
+                }
+            ]
+        }
+    ],
+    "alias": "ty-al-5hsprrxy",
+    "info": {
+        "remark": [],
+        "title": "TY",
+        "domain": "ty.al",
+        "origin": "https://ty.al",
+        "ip": "146.56.110.2",
+        "main": "index.html",
+        "url": "https://ty.al/",
+        "totalSize": "185 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://ty.al/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://ty.al/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Fri, 15 Apr 2022 12:06:01 GMT",
+                "content-type": "text/html",
+                "content-length": "29521",
+                "last-modified": "Thu, 31 Mar 2022 15:24:18 GMT",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "etag": "\"6245c7a2-7351\"",
+                "strict-transport-security": "max-age=31536000",
+                "accept-ranges": "bytes"
+            }
+        },
+        "time": {
+            "start": "2022-04-15T12:06:01.090Z",
+            "end": "2022-04-15T12:06:21.108Z"
+        }
+    },
+    "options": {
+        "url": "https://ty.al/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
