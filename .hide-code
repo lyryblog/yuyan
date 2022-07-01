@@ -5,3 +5,6 @@
 		</ul>
 		<div class="move-bg"></div><!--右上方 部件-->
 	</div>
+
+    <audio src="" controls="controls" preload="" id="music1" hidden=""></audio>
+   <span class="holder" id="bf" onclick="bf();">Music</span>
