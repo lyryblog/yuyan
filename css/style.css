@@ -19,7 +19,7 @@ a, button, input[type="button"], input[type="submit"], input[type="reset"]{curso
 .fl {float: left;}
 .fr {float: right;}
 /*原文件配置*/
-body {color: #FFF;background: #161616 ;font: 16px/30px 'Microsoft YaHei', arial, sans-serif;cursor: url('../img/icon_mouse.svg'), auto;}
+body {color: #FFF;background: #161616 ;font: 16px/30px 'Microsoft YaHei', arial, sans-serif;}
 a {color: #000;text-decoration: none;}
 a:hover {color: #e69f0b;cursor:url('../img/icon_mouse2.svg'), auto;}
 a {color: #000;text-decoration: none;}
