@@ -17,6 +17,7 @@
 <div class="container slideTxtBox">
     <div class="header flex flex-pack-justify flex-align-center">
     <div class="user-info flex flex-align-center">
+       <!-- <div class="portrait"><img src="https://cdn.anlenotes.com/point/images/Anle.png" ></div>-->
         <div class="name PangMenZhengDao"></div><!--左上角 Logo+站名-->
     </div>
 	</div>
@@ -243,15 +244,14 @@
 <div class="txt">
 广州市玉岩中学坐落于广州市黄埔区，是广东省国家级示范性普通高中、德育示范学校（2011年获得）、中小学教师培训实践基地、普通高中教学水平优秀学校及广州市德育示范学校。
 </div>
-<!--秘密入口-->
 <div class="lock transition p_r">
 <input type="text" id="code" value="" placeholder="请输入提取码" class="OPPOSans-M">
 <div class="error" id="code_error">提取码错误</div>
 </div>
 <!--<div class="submit" id="btn">
 <a href="javascript:void(0);" class="di_bl te_c my">秘密入口:123</a>
-<a href="http://www.baidu.com" id="down" class="di_bl te_c down">下载</a>-->
-</div>
+<a href="http://www.baidu.com" id="down" class="di_bl te_c down">下载</a>
+</div>-->
 </div>
 </div>
 
@@ -268,6 +268,7 @@
     <input id="foo" type="text" value="">
 </i></a>
 <!--小部件-其他-->
+<!--<i class="fa fa-qq fa-siz icon-3d"></i></a>-->
 <a href="https://weibo.com/yuyannews" target="_blank"><i class="fa fa-weibo fa-siz icon-3d"></i></a>
 </div>
 </div>
@@ -279,6 +280,13 @@
 </div>
 <script src="js/jquery.SuperSlide.2.1.1.js"></script>
 <script>jQuery(".slideTxtBox").slide({});</script>
+<!-- 滑动效果 -->
+<script src="js/jquery.movebg.js"></script>
+<script>
+$(function(){
+	$(".link").movebg({width:125/*滑块的大小*/,extra:40/*额外反弹的距离*/,speed:300/*滑块移动的速度*/,rebound_speed:400/*滑块反弹的速度*/});
+})
+</script>
 <link rel="stylesheet" type="text/css" href="css/font.css">
 <script src="js/clipboard.min.js"></script>
 <script>//复制
@@ -331,6 +339,25 @@
 		}
 	}
 	btn.addEventListener("click", showCard);
+</script>
+<!--音乐-->
+<script>
+function rbf(){
+ var audio = document.getElementById('music1'); 
+ audio.currentTime = 0;
+}
+function bf(){
+ var audio = document.getElementById('music1'); 
+ if(audio!==null){             
+     alert(audio.paused);
+  if(audio.paused)                     {                 
+      audio.play('播放');  
+  }else{
+   audio.pause('暂停');
+  }
+ } 
+}
+   
 </script>
 <script>
 try {
