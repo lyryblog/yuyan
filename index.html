@@ -281,6 +281,13 @@
 <script>jQuery(".slideTxtBox").slide({});</script>
 <link rel="stylesheet" type="text/css" href="css/font.css">
 <script src="js/clipboard.min.js"></script>
+<!-- 滑动效果 -->
+<script src="js/jquery.movebg.js"></script>
+<script>
+$(function(){
+	$(".link").movebg({width:125/*滑块的大小*/,extra:40/*额外反弹的距离*/,speed:300/*滑块移动的速度*/,rebound_speed:400/*滑块反弹的速度*/});
+})
+</script>
 <script>//复制
 	var clipboard = new Clipboard('.copy');
 	clipboard.on('success', function(e) {
